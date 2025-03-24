@@ -1,0 +1,10 @@
+data1 =  range(10,20,)
+print(data1)
+print(data1[1])
+a= list(data1)
+print(a)
+b=tuple(data1)
+print(b)
+c=set(data1)
+print(c)
+
